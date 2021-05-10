@@ -6,4 +6,4 @@ dynamic pulleys
 
 https://youtu.be/Unz6hWxNtRI
 
-[![Fibonacci RMI Java EE](https://youtu.be/Unz6hWxNtRI "RMI Fibonacci Java")
+[![Fibonacci RMI Java EE](https://youtu.be/Unz6hWxNtRI)
