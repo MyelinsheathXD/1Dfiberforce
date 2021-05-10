@@ -6,4 +6,4 @@ dynamic pulleys
 
 https://youtu.be/Unz6hWxNtRI
 
-[!alt video](https://youtu.be/Unz6hWxNtRI)
+
